@@ -1,0 +1,25 @@
+* { margin: 0; padding: 0; }
+body { font-family: Garamond; color: #333; }
+
+
+
+header,
+main,
+footer {
+	background-color: #F8F8FF;
+	font-size: 20px;
+    text-align: center;
+}
+
+p {
+    color: #778899;
+}
+
+#name {
+    font-size: 30px;
+}
+
+.choke {
+    font-family: "Arial";
+    font-size: 15px;
+}
